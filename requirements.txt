@@ -1,0 +1,13 @@
+numpy
+scipy
+scikit-learn
+langchain
+openai
+pandas
+qdrant-client 
+sentence-transformers
+streamlit
+huggingface
+fastapi
+uvicorn
+# llm-guard

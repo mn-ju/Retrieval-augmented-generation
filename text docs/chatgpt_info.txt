@@ -1,0 +1,565 @@
+ChatGPT is a natural language processing tool driven by AI technology that allows you to have
+
+human-like conversations and much more with the chatbot. 
+
+The language model can answer questions and assist you with tasks, such as composing emails,
+
+essays, and code.
+
+It's currently open to use by the public for free because ChatGPT is in its research and 
+
+feedback-collection phase. A paid subscription version called ChatGPT Plus launched at the 
+
+beginning of February.
+
+Who made ChatGPT?
+
+ChatGPT was created by OpenAI, an AI and research company. The company launched ChatGPT on 
+
+November 30, 2022. 
+
+OpenAI is also responsible for creating DALL-E 2, a popular AI art generator, and Whisper, an 
+
+automatic speech recognition system. 
+
+How big a deal is ChatGPT?
+
+It's a big deal -- think internet-level disruption. 
+
+"ChatGPT is scary good. We are not far from dangerously strong AI," said Elon Musk, who was one 
+
+of the founders of OpenAI before leaving. Sam Altman, OpenAI's chief, said on Twitter that 
+
+ChatGPT had more than one million users in the first five days after it launched. 
+
+According to analysis by Swiss bank UBS, ChatGPT is the fastest-growing app of all time. The 
+
+analysis estimates that ChatGPT had 100 million active users in January, only two months after 
+
+its launch. For comparison, it took nine months for TikTok to reach 100 million users.
+
+How can you access ChatGPT?
+
+You can access ChatGPT simply by visiting chat.openai.com and creating an OpenAI account. 
+
+You can also still use the old URL for the chatbot, which is chat.openai.com/chat. OpenAI 
+
+simplified the original URL for user convenience. 
+
+Once you sign in, you can start chatting away with ChatGPT. Get your conversation started by 
+
+asking a question. Because ChatGPT is still in its research stage, it is free to use and you can 
+
+ask as many questions as you'd like.
+
+For step-by-step instructions, check out ZDNET's guide on how to start using ChatGPT. 
+
+As of May 18, you can also access ChatGPT via an app on your iPhone. 
+
+How much does ChatGPT cost?
+
+ChatGPT is free to use, regardless of what you use it for, including writing, coding, and much 
+
+more. 
+
+There is a subscription option that users can take advantage of that costs $20/month. The paid 
+
+subscription model guarantees users extra perks, such as general access even at capacity, 
+
+faster response times, and access to the internet through plugins. 
+
+However, the free version is still a solid option as it has mostly the same technical 
+
+abilities, with the exception of access to the latest version of the large language model 
+
+(LLM), known as GPT-4, and the internet, which the subscription model guarantees. 
+
+I tried using ChatGPT and it says it's at capacity. What does that mean?
+
+ChatGPT is still free to use. Because of the stir its advanced capabilities have created, many 
+
+people are flocking to use it. The website operates using a server, and when too many people 
+
+hop onto the server, it overloads and can't process your request. 
+
+This popularity doesn't mean you won't ever be able to access it. It just means you should try 
+
+visiting the site at a later time when fewer people are trying to access the server. You can 
+
+also keep the tab open and just refresh it periodically. 
+
+If you want to skip the wait and have reliable access, there is an option for you. OpenAI's 
+
+ChatGPT pro plan, known as ChatGPT Plus, allows users to have general access even during peak 
+
+times, experience faster response times, and have priority access to new features and 
+
+improvements, including OpenAI's most advanced LLM, GPT-4. The premium services cost $20 per 
+
+month. 
+
+You can also try using Bing's AI chatbot, Bing Chat. This chatbot is free to use, runs on 
+
+GPT-4, does not have wait times, and has access to the internet. 
+
+How are people using ChatGPT?
+
+The model has many functions in addition to answering simple questions. ChatGPT can compose 
+
+essays, describe art in great detail, create AI art prompts, have philosophical conversations, 
+
+and even code for you. 
+
+My personal favorite use is asking the chatbot for help creating basic lists for chores such as 
+
+packing and grocery shopping, and to-do lists to make my daily life more productive. The 
+
+possibilities are endless. 
+
+ZDNET has published many ChatGPT how-to guides. Here are some of the most popular. 
+
+How to use ChatGPT to: 
+
+Write an essay
+
+Create an app
+
+Write code
+
+Build your resume
+
+Write Excel formulas
+
+Summarize content
+
+Write a cover letter
+
+Start an Etsy business
+
+How does ChatGPT work?
+
+ChatGPT runs on a language model architecture created by OpenAI called the Generative Pre-
+
+trained Transformer (GPT). The specific GPT used by ChatGPT is fine-tuned from a model in the 
+
+GPT-3.5 series, according to OpenAI. 
+
+However, with a subscription to ChatGPT Plus, you can access ChatGPT with GPT-4, Open AI's most 
+
+advanced model. 
+
+Generative AI models of this type are trained on vast amounts of information from the internet, 
+
+including websites, books, news articles, and more. 
+
+The language model was fine-tuned using supervised learning as well as reinforcement learning. 
+
+The use of Reinforcement Learning from Human Feedback (RLHF) is what makes ChatGPT especially 
+
+unique. Through RLHF, human AI trainers provided the model with conversations in which they 
+
+played both parts, the user and AI assistants, according to OpenAI. 
+
+What are ChatGPT's limitations?
+
+Despite looking very impressive, ChatGPT still has limitations. Such limitations include the 
+
+inability to answer questions that are worded in a specific way, as it requires rewording to 
+
+understand the input question. A bigger limitation is a lack of quality in the responses it 
+
+delivers -- which can sometimes be plausible-sounding but make no practical sense or can be 
+
+excessively verbose. 
+
+Also: 6 harmful ways ChatGPT can be used by bad actors
+
+Instead of asking for clarification on ambiguous questions, the model just guesses what your 
+
+question means, which can lead to unintended responses to questions. This limitation has 
+
+already led developer question-and-answer site StackOverflow to at least temporarily ban 
+
+ChatGPT-generated responses to questions.
+
+"The primary problem is that while the answers that ChatGPT produces have a high rate of being 
+
+incorrect, they typically look like they might be good and the answers are very easy to 
+
+produce," say Stack Overflow moderators in a post. Critics argue that these tools are just very 
+
+good at putting words into an order that makes sense from a statistical point of view, but they 
+
+cannot understand the meaning or know whether the statements it makes are correct.
+
+Also: AI has the potential to automate 40% of the average work day
+
+Another major limitation is that ChatGPT's data is limited up to 2021. The chatbot does not 
+
+have an awareness of events or news that have occurred since then. Lastly, ChatGPT does not 
+
+provide sources for its responses. 
+
+These two problems, however, were addressed through ChatGPT's integration into Bing as its 
+
+default search engine. A Bing plugin gives ChatGPT the ability to index the internet and 
+
+provide citations. The Bing plugin is limited to ChatGPT Plus subscribers at the moment, but 
+
+will be free for everyone to use in the future.  
+
+Can I chat with ChatGPT?
+
+Although some people are using ChatGPT for some elaborate functions, such as writing code or 
+
+even malware, you can use ChatGPT for more mundane activities, such as having a friendly 
+
+conversation. 
+
+Also: Do you like asking ChatGPT questions? You could get paid (a lot) for it
+
+Some conversation starters could be as simple as, "I am hungry, what food should I get?" or as 
+
+elaborate as, "What do you think happens in the afterlife?" Either way, ChatGPT is sure to have 
+
+an answer for you. 
+
+Can I chat with GPT-3?
+
+The free version of ChatGPT runs on a model fine-tuned from the 3.5 series, an improved model 
+
+from the original GPT-3. So if you want to chat with a model in the GPT-3 series, all you have 
+
+to do is chat with ChatGPT's free version.
+
+Also: How to use Bing Chat (and how it's different from ChatGPT)
+
+If you want to use the more advanced LLM in the GPT series, GPT-4, you can become a ChatGPT 
+
+Plus subscriber or use Bing Chat for free. 
+
+Why are some people worried about ChatGPT?
+
+People are expressing concerns about AI chatbots replacing or atrophying human intelligence. 
+
+For example, the chatbot can write an article on any topic efficiently (though not necessarily 
+
+accurately) within seconds, potentially eliminating the need for a human writer. 
+
+Also: Even Google is warning its employees about AI chatbot use
+
+The chatbot can also write an entire full essay within seconds, making it easier for students 
+
+to cheat or avoid learning how to write properly. This has led to some school districts 
+
+blocking access to it. 
+
+Another concern with the AI chatbot is the possible spread of misinformation. Since the bot is 
+
+not connected to the internet, it could make mistakes in what information it shares. 
+
+Also: AI is more likely to cause world doom than climate change, according to an AI expert
+
+The bot itself says: "My responses are not intended to be taken as fact, and I always encourage 
+
+people to verify any information they receive from me or any other source." OpenAI also notes 
+
+that ChatGPT sometimes writes "plausible-sounding but incorrect or nonsensical answers."  
+
+Is there a tool that can detect ChatGPT text?
+
+With concerns about students using ChatGPT to cheat, the need for a ChatGPT text detector is 
+
+becoming more evident. 
+
+OpenAI, the AI research company behind ChatGPT, released an imperfect, free tool to target this 
+
+problem. OpenAI's "classifier" tool can only correctly identify 26% of AI-written text with a 
+
+"likely AI-written" designation. Furthermore, it provides false positives 9% of the time, 
+
+incorrectly identifying human-written work as AI-produced work. 
+
+Also: ChatGPT dropped a free app for iPhones. Does it live up to the hype?
+
+Other AI detectors also exist on the market, including GPT-2 Output Detector, Writer AI Content 
+
+Detector, and Content at Scale AI Content Detection. ZDNET put these tools to the test and the 
+
+results were underwhelming. All three of the tools were found to be unreliable sources for 
+
+spotting AI, repeatedly giving false negatives. Here are ZDNET's full test results. 
+
+Although tools aren't sufficient to detect ChatGPT-generated writing, a study shows that humans 
+
+might be able to detect AI-written text by looking for politeness. The study's results indicate 
+
+that ChatGPT's writing style is extremely polite. And unlike humans, it cannot produce 
+
+responses that include metaphors, irony, or sarcasm.
+
+Is ChatGPT a good or bad thing?
+
+ChatGPT is an advanced chatbot that has the potential to both make people's lives easier and 
+
+assist with everyday tedious tasks, such as writing emails or navigating the web for answers. 
+
+However, certain technical details have to be figured out before it's widely used to prevent 
+
+negative outcomes, such as the spread of misinformation. In general, AI and machine learning 
+
+(ML) models rely on lots of training and fine-tuning to reach a level of ideal performance. 
+
+Also: How ChatGPT can rewrite and improve your existing code
+
+So, is AI taking over the world? Not yet, perhaps, but OpenAI's Altman certainly thinks that 
+
+human-style intelligence in AI is now not that far off. Responding to Musk's comment about 
+
+dangerously strong AI, Altman tweeted: "I agree on being close to dangerously strong AI in the 
+
+sense of an AI that poses e.g. a huge cybersecurity risk. and i think we could get to real AGI 
+
+in the next decade, so we have to take the risk of that extremely seriously too."
+
+Also: Most Americans think AI threatens humanity, according to a poll
+
+He also noted: "interesting watching people start to debate whether powerful AI systems should 
+
+behave in the way users want or their creators intend. the question of whose values we align 
+
+these systems to will be one of the most important debates society ever has."
+
+What is GPT-4?
+
+GPT-4 is the newest version of OpenAI's language model system, and it is much more advanced 
+
+than its predecessor GPT-3.5, which ChatGPT runs on. 
+
+GPT-4 is a multimodal model that accepts both text and images as input, and it outputs text. 
+
+This multimodal nature can be useful for uploading worksheets, graphs, and charts to be 
+
+analyzed. 
+
+Also: What is GPT-4? Here's everything you need to know
+
+Currently, GPT-4's text-input capabilities are the only ones available to the public. Users can 
+
+access these functions by subscribing to ChatGPT Plus for $20 per month or by using Bing Chat.
+
+The day that GPT-4 was unveiled by OpenAI, Microsoft shared that its chatbot, Bing Chat, had 
+
+been running on GPT-4 since its launch. This chatbot is free to use and open to everyone. 
+
+Also: Now you can access Bing Chat without a Microsoft account
+
+GPT-4 has advanced intellectual capabilities that allow it to outperform GPT-3.5 in a series of 
+
+simulated benchmark exams. It has also reduced the number of hallucinations produced by the 
+
+chatbot. 
+
+What are ChatGPT's limitations?
+
+Despite looking very impressive, ChatGPT still has limitations. Such limitations include the 
+
+inability to answer questions that are worded in a specific way, as it requires rewording to 
+
+understand the input question. A bigger limitation is a lack of quality in the responses it 
+
+delivers -- which can sometimes be plausible-sounding but make no practical sense or can be 
+
+excessively verbose. 
+
+Also: 6 harmful ways ChatGPT can be used by bad actors
+
+Instead of asking for clarification on ambiguous questions, the model just guesses what your 
+
+question means, which can lead to unintended responses to questions. This limitation has 
+
+already led developer question-and-answer site StackOverflow to at least temporarily ban 
+
+ChatGPT-generated responses to questions.
+
+"The primary problem is that while the answers that ChatGPT produces have a high rate of being 
+
+incorrect, they typically look like they might be good and the answers are very easy to 
+
+produce," say Stack Overflow moderators in a post. Critics argue that these tools are just very 
+
+good at putting words into an order that makes sense from a statistical point of view, but they 
+
+cannot understand the meaning or know whether the statements it makes are correct.
+
+Also: AI has the potential to automate 40% of the average work day
+
+Another major limitation is that ChatGPT's data is limited up to 2021. The chatbot does not 
+
+have an awareness of events or news that have occurred since then. Lastly, ChatGPT does not 
+
+provide sources for its responses. 
+
+These two problems, however, were addressed through ChatGPT's integration into Bing as its 
+
+default search engine. A Bing plugin gives ChatGPT the ability to index the internet and 
+
+provide citations. The Bing plugin is limited to ChatGPT Plus subscribers at the moment, but 
+
+will be free for everyone to use in the future.  
+
+Can I chat with ChatGPT?
+
+Although some people are using ChatGPT for some elaborate functions, such as writing code or 
+
+even malware, you can use ChatGPT for more mundane activities, such as having a friendly 
+
+conversation. 
+
+Also: Do you like asking ChatGPT questions? You could get paid (a lot) for it
+
+Some conversation starters could be as simple as, "I am hungry, what food should I get?" or as 
+
+elaborate as, "What do you think happens in the afterlife?" Either way, ChatGPT is sure to have 
+
+an answer for you. 
+
+Can I chat with GPT-3?
+
+The free version of ChatGPT runs on a model fine-tuned from the 3.5 series, an improved model 
+
+from the original GPT-3. So if you want to chat with a model in the GPT-3 series, all you have 
+
+to do is chat with ChatGPT's free version.
+
+Also: How to use Bing Chat (and how it's different from ChatGPT)
+
+If you want to use the more advanced LLM in the GPT series, GPT-4, you can become a ChatGPT 
+
+Plus subscriber or use Bing Chat for free. 
+
+Why are some people worried about ChatGPT?
+
+People are expressing concerns about AI chatbots replacing or atrophying human intelligence. 
+
+For example, the chatbot can write an article on any topic efficiently (though not necessarily 
+
+accurately) within seconds, potentially eliminating the need for a human writer. 
+
+Also: Even Google is warning its employees about AI chatbot use
+
+The chatbot can also write an entire full essay within seconds, making it easier for students 
+
+to cheat or avoid learning how to write properly. This has led to some school districts 
+
+blocking access to it. 
+
+Another concern with the AI chatbot is the possible spread of misinformation. Since the bot is 
+
+not connected to the internet, it could make mistakes in what information it shares. 
+
+Also: AI is more likely to cause world doom than climate change, according to an AI expert
+
+The bot itself says: "My responses are not intended to be taken as fact, and I always encourage 
+
+people to verify any information they receive from me or any other source." OpenAI also notes 
+
+that ChatGPT sometimes writes "plausible-sounding but incorrect or nonsensical answers."  
+
+Is there a tool that can detect ChatGPT text?
+
+With concerns about students using ChatGPT to cheat, the need for a ChatGPT text detector is 
+
+becoming more evident. 
+
+OpenAI, the AI research company behind ChatGPT, released an imperfect, free tool to target this 
+
+problem. OpenAI's "classifier" tool can only correctly identify 26% of AI-written text with a 
+
+"likely AI-written" designation. Furthermore, it provides false positives 9% of the time, 
+
+incorrectly identifying human-written work as AI-produced work. 
+
+Also: ChatGPT dropped a free app for iPhones. Does it live up to the hype?
+
+Other AI detectors also exist on the market, including GPT-2 Output Detector, Writer AI Content 
+
+Detector, and Content at Scale AI Content Detection. ZDNET put these tools to the test and the 
+
+results were underwhelming. All three of the tools were found to be unreliable sources for 
+
+spotting AI, repeatedly giving false negatives. Here are ZDNET's full test results. 
+
+Although tools aren't sufficient to detect ChatGPT-generated writing, a study shows that humans 
+
+might be able to detect AI-written text by looking for politeness. The study's results indicate 
+
+that ChatGPT's writing style is extremely polite. And unlike humans, it cannot produce 
+
+responses that include metaphors, irony, or sarcasm.
+
+Is ChatGPT a good or bad thing?
+
+ChatGPT is an advanced chatbot that has the potential to both make people's lives easier and 
+
+assist with everyday tedious tasks, such as writing emails or navigating the web for answers. 
+
+However, certain technical details have to be figured out before it's widely used to prevent 
+
+negative outcomes, such as the spread of misinformation. In general, AI and machine learning 
+
+(ML) models rely on lots of training and fine-tuning to reach a level of ideal performance. 
+
+Also: How ChatGPT can rewrite and improve your existing code
+
+So, is AI taking over the world? Not yet, perhaps, but OpenAI's Altman certainly thinks that 
+
+human-style intelligence in AI is now not that far off. Responding to Musk's comment about 
+
+dangerously strong AI, Altman tweeted: "I agree on being close to dangerously strong AI in the 
+
+sense of an AI that poses e.g. a huge cybersecurity risk. and i think we could get to real AGI 
+
+in the next decade, so we have to take the risk of that extremely seriously too."
+
+Also: Most Americans think AI threatens humanity, according to a poll
+
+He also noted: "interesting watching people start to debate whether powerful AI systems should 
+
+behave in the way users want or their creators intend. the question of whose values we align 
+
+these systems to will be one of the most important debates society ever has."
+
+What is GPT-4?
+
+GPT-4 is the newest version of OpenAI's language model system, and it is much more advanced 
+
+than its predecessor GPT-3.5, which ChatGPT runs on. 
+
+GPT-4 is a multimodal model that accepts both text and images as input, and it outputs text. 
+
+This multimodal nature can be useful for uploading worksheets, graphs, and charts to be 
+
+analyzed. 
+
+Also: What is GPT-4? Here's everything you need to know
+
+Currently, GPT-4's text-input capabilities are the only ones available to the public. Users can 
+
+access these functions by subscribing to ChatGPT Plus for $20 per month or by using Bing Chat.
+
+The day that GPT-4 was unveiled by OpenAI, Microsoft shared that its chatbot, Bing Chat, had 
+
+been running on GPT-4 since its launch. This chatbot is free to use and open to everyone. 
+
+Also: Now you can access Bing Chat without a Microsoft account
+
+GPT-4 has advanced intellectual capabilities that allow it to outperform GPT-3.5 in a series of 
+
+simulated benchmark exams. It has also reduced the number of hallucinations produced by the 
+
+chatbot. 
+
+
+
+
